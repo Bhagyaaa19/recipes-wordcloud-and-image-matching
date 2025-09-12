@@ -7,7 +7,7 @@ Implemented a combined data science and computer vision project that involved te
 
 • Automated classification via OpenAI GPT-3 to extract "make-with-kids" recommendations.
 
-• Recipe recommendation using cosine similarity on ingredient TF–IDF vectors (top-12 recommendations for a preference profile).
+• Recipe recommendation system ors (top-12 recommendations for a preference profile).
 
 • Image feature matching with SIFT and ORB; saved sift-result.jpg and orb-result.jpg.
 
