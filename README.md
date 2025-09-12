@@ -1,4 +1,4 @@
-# recipes-image-matching-and-wordcloud
+# recipes-wordcloud and image-matching
 Data science project in requirement for partial completion of Data Analytics course work
 
 A combined data science and computer-vision project which involved preprocessing a real-world recipe dataset, building TF–IDF based visualizations and word clouds, developing a recommendation engine, programmatic classification using OpenAI GPT-3, and implementing SIFT/ORB feature matching in OpenCV to compare image-matching methods.
