@@ -12,3 +12,7 @@ Implemented a combined data science and computer vision project that involved te
 • Image feature matching with SIFT and ORB; saved sift-result.jpg and orb-result.jpg.
 
 • Comparative PDF report summarizing performance and tradeoffs between SIFT and ORB methods.
+
+<img width="2000" height="1500" alt="recipes_wordcloud" src="https://github.com/user-attachments/assets/59f9bcc1-ca07-40fc-83a8-24fa7bde3a14" />
+![orb-result](https://github.com/user-attachments/assets/81f61c21-b931-4a3d-a010-9a71e3e67001)
+![sift-result](https://github.com/user-attachments/assets/9f00ab53-6d18-4ab2-92f5-f148d32032b3)
